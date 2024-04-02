@@ -34,7 +34,7 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**PROCEDURE**
+**PROCEDURE:**
 
 1.Type the program in Quartus software.
 
@@ -46,7 +46,7 @@ Figure 02  Encoder 8 * 3
 
 5.For different input combinations generate the timing diagram.
 
-**PROGRAM**
+**PROGRAM:**
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
